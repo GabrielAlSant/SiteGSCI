@@ -40,6 +40,15 @@ a {
 .bodyimg{display: flex;}
 .imgtex{margin-left: 200px;}
 .img1{width: 100px; height: 100px;}
+.card{margin-bottom: 50px;}
+.card-body{height:400px;}
+
+.top{display: flex;margin: 1rem;}
+
+.titlebtn{text-align: start;font-size: 20px;}
+.pos{margin-left:83.5%;}
+
+
 @media (max-width: 600px)
 {
   .back
@@ -48,6 +57,7 @@ a {
    }
    .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 10%;margin-top:20px;}
 .display{display: flex;background-color: rgb(102, 11, 102)}
+.pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;background-color: rgb(102, 11, 102)}
 .end{text-align: end;margin-left: 35%;background-color: rgb(102, 11, 102)}
 }
