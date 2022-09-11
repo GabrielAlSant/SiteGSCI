@@ -38,7 +38,8 @@ a {
 {
   .back
    {
-    width: 100%;
+    width: 100%;background-color: rgb(102, 11, 102)
    }
+   .back .container{margin-top: 0%;width: 100%; background-color: rgb(102, 11, 102);}
    .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: center; height: 150px;width: 400px;margin-top:20px;}
 }
