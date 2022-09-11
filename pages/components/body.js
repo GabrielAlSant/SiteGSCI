@@ -3,9 +3,9 @@ import img from '../../public/img/utilizavel.jpg'
 
 export default function Body(){
     return (
-        <div>
+        <div className="container">
             <div>
-<Image src={img} width={300} heigth={200}></Image>
+             <Image src={img} className="img1"></Image>
             </div>
         </div>
     )
