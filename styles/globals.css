@@ -26,7 +26,7 @@ a {
 }
 
 .container{margin-top: 2%;}
-.back{background-color: rgb(102, 11, 102);color:white;height: 300px;}
+.back{background-color: rgb(102, 11, 102);color:white;height: 300px;width: 100%;}
 .col-sm-8 .title {font-size: 32px;margin-left: 10%;margin-top: 5%;}
 .headitem{font-size: 20px;color: white;}
 .back .col-sm-4 .headitem{font-size: 20px;}
