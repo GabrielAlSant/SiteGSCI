@@ -40,9 +40,9 @@ a {
 {
   .back
    {
-    width: 100%;background-color: rgb(102, 11, 102)
+    max-width: 100%;background-color: rgb(102, 11, 102)
    }
-.display{display: flex;}
-.start{text-align: start;font-size: 20px;margin-left:25px;}
-.end{text-align: end;margin-left: 35%;}
+.display{display: flex;background-color: rgb(102, 11, 102)}
+.start{text-align: start;font-size: 20px;margin-left:25px;background-color: rgb(102, 11, 102)}
+.end{text-align: end;margin-left: 35%;background-color: rgb(102, 11, 102)}
 }
