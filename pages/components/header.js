@@ -1,7 +1,7 @@
 export default function Header(){
     return (
         <div className="back">
-        <div>
+        <div className="container">
         <div className="row">
         <div className="col-sm-8"><span className="title">Book&Book</span></div>
         <div className="col-sm-4"> 
@@ -33,6 +33,7 @@ export default function Header(){
        
         <div className="row">
         <div className="col-sm-8"><span className="cardheader">Ler é bom, tente de vez em quando</span></div>
+        <div className="col-sm-4"></div>
         </div>
 
         </div>
