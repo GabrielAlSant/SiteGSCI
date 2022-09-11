@@ -1,10 +1,10 @@
 export default function Header(){
     return (
         <div className="back">
-        <div className="container">
-        <div className="row">
-        <div className="col-sm-8"><span className="title">Book&Book</span></div>
-        <div className="col-sm-4"> 
+        <div className="display">
+      
+        <div className="start"><span className="title">Book&Book</span></div>
+        <div className="end"> 
         <nav className="navbar navbar-expand-lg bg">
          <div>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -31,12 +31,12 @@ export default function Header(){
           </div>
         </div>
        
-        <div className="row">
+      
         <div className="col-sm-8"><span className="cardheader">Ler é bom, tente de vez em quando</span></div>
         <div className="col-sm-4"></div>
         </div>
 
-        </div>
-        </div>
+    
+
     )
 }
