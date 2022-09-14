@@ -30,12 +30,12 @@ a {
 .title {font-size: 32px;margin-left: 10%;margin-top: 5%;}
 .headitem{font-size: 20px;color: white;}
 .back .col-sm-4 .headitem{font-size: 20px;}
-.back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 10%;margin-top:20px;}
+.back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 80px;margin-top:20px;}
 .back .container{margin-top: 0%;width: 100%; background-color: rgb(102, 11, 102);padding: 0%;}
 
-.display{display: flex;}
-.start{text-align: start;font-size: 20px;margin-left:70px;}
-.end{text-align: end;margin-left: 50%;}
+.displayy{display: flex;}
+.start{text-align: start;font-size: 20px;margin-left:70px;margin-top: 25px;}
+.end{text-align: end;margin-left: 50%;margin-top: 25px;}
 
 .bodyimg{display: flex;}
 .imgtex{margin-left: 200px;}
@@ -50,14 +50,16 @@ a {
 
 
 @media (max-width: 600px)
-{
+{* .header{background-color: rgb(102, 11, 102)}
   .back
    {
-    max-width: 100%;background-color: rgb(102, 11, 102);height: 250px;width: 100%;
+    max-width: 100%;background-color: rgb(102, 11, 102);height: 280px;width: 100%;
    }
    .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 10%;margin-top:20px;}
 .display{display: flex;background-color: rgb(102, 11, 102)}
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;background-color: rgb(102, 11, 102)}
 .end{text-align: end;margin-left: 35%;background-color: rgb(102, 11, 102)}
+.row{align-items: center;}
+
 }

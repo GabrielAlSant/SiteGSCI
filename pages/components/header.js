@@ -1,7 +1,8 @@
 export default function Header(){
     return (
+      <div className="header">
         <div className="back">
-        <div className="display">
+        <div className="displayy">
       
         <div className="start"><span className="title">Book&Book</span></div>
         <div className="end"> 
@@ -36,7 +37,7 @@ export default function Header(){
         <div className="col-sm-4"></div>
         </div>
 
-    
+        </div> 
 
     )
 }
