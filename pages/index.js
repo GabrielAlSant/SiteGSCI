@@ -8,7 +8,9 @@ import Cards from './components/cards'
 export default function Home() {
   return (
     <div>
+      <div className='background'>
   <Header/>
+  </div>
   <Body/>
   <div className='container'>
   <div  className="top">

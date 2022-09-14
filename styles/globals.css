@@ -50,12 +50,13 @@ a {
 
 
 @media (max-width: 600px)
-{* {background-color: rgb(102, 11, 102)}
+{
+.background{background-color: rgb(102, 11, 102)}
   .back
    {
     max-width: 100%;background-color: rgb(102, 11, 102);height: 280px;width: 100%;
    }
-   .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 10%;margin-top:20px;}
+   .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 360px;margin-left: 5%;margin-top:20px;}
 .display{display: flex;background-color: rgb(102, 11, 102)}
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;background-color: rgb(102, 11, 102)}
