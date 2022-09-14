@@ -60,7 +60,7 @@ a {
 .display{display: flex;background-color: rgb(102, 11, 102)}
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;background-color: rgb(102, 11, 102)}
-.end{text-align: end;margin-left: 35%;background-color: rgb(102, 11, 102)}
+.end{text-align: end;margin-left: 25%;background-color: rgb(102, 11, 102)}
 .row{align-items: center;}
 
 }
