@@ -48,6 +48,10 @@ a {
 .titlebtn{text-align: start;font-size: 20px;}
 .pos{margin-left:83.5%;}
 .background{background-image: url("../public/img/back.webp");}
+
+.backblack{background-color: rgb(31, 31, 31);color:white}
+
+.padd{padding-left: 1rem;}
 @media (max-width: 600px)
 {
 
@@ -61,5 +65,6 @@ a {
 .start{text-align: start;font-size: 20px;margin-left:25px;}
 .end{text-align: end;margin-left: 25%;}
 .row{align-items: center;}
+.margfooter{margin-right: 1rem;text-align: start;}
 
 }
