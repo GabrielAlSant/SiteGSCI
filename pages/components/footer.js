@@ -3,7 +3,7 @@ return (
     <div>
     <div className="displayy">
       
-      <div className="start"><span className="title">Book&Book</span></div>
+      <div className="start"><span className="title">Livraria</span></div>
       <div className="end"> </div>
     
     </div>

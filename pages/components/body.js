@@ -8,7 +8,7 @@ export default function Body(){
             
             <div className="bodyimg">
              <Image src={img} className="img1"></Image>
-             <div className="imgtext">seila</div>
+             <div className="imgtext">Livros em Pré-Vendas</div>
             </div>
         </div>
     )
