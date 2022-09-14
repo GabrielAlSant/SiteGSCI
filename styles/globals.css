@@ -50,7 +50,7 @@ a {
 
 
 @media (max-width: 600px)
-{* .header{background-color: rgb(102, 11, 102)}
+{* {background-color: rgb(102, 11, 102)}
   .back
    {
     max-width: 100%;background-color: rgb(102, 11, 102);height: 280px;width: 100%;
