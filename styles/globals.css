@@ -27,7 +27,7 @@ a {
 
 .container{margin-top: 2%;}
 .back{color:white;height: 300px;width: 100%;}
-.title {font-size: 32px;margin-left: 10%;margin-top: 5%;}
+.title{font-size: 32px;margin-left: 10%;margin-top: 5%;}
 .headitem{font-size: 20px;color: white;}
 .back .col-sm-4 .headitem{font-size: 20px;}
 .back .cardheader{border: 4px solid white; color: white; font-size: 30px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 80px;margin-top:20px;}

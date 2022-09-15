@@ -3,8 +3,8 @@ return (
     <div>
     <div className="displayf">
       
-      <div className="start"><span className="title">Tainá Fernanda e Gabriel Alves</span></div>
-      <div className="endf"> </div>
+      <div className="start"><span className="title">Livraria</span></div>
+      <div className="endf">Feito por : Gabriel Alves e Taína Fernanda</div>
     
     </div>
     <div className="displayf">
