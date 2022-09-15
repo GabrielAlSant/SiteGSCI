@@ -6,7 +6,7 @@ export default function Cards(){
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Special title treatment</h5>
-        
+        <img src="../../public/img/Livro.webp" />
       </div>
     </div>
   </div>

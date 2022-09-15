@@ -4,7 +4,7 @@ export default function Header(){
         <div className="back">
         <div className="displayy">
       
-        <div className="start"><span className="title">Book&Book</span></div>
+        <div className="start"><span className="title">Livraria </span></div>
         <div className="end"> 
         <nav className="navbar navbar-expand-lg bg">
          <div>
