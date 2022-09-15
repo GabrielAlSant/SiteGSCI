@@ -4,7 +4,7 @@ return (
     <div className="displayf">
       
       <div className="start"><span className="title">Livraria</span></div>
-      <div className="endf">Feito por : Gabriel Alves e Taína Fernanda</div>
+      <div className="endff">Feito por : Gabriel Alves e Taína Fernanda</div>
     
     </div>
     <div className="displayf">
