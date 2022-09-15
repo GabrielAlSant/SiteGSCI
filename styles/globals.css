@@ -64,7 +64,8 @@ a {
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;}
 .end{text-align: end;margin-left: 25%;}
+.end .margfooter{display: block;}
 .row{align-items: center;}
-.margfooter{margin-right: 1rem;text-align: start;}
+.margfooter{text-align: start;color: rgb(58, 58, 58);}
 
 }
