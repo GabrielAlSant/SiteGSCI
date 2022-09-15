@@ -35,8 +35,10 @@ a {
 
 .displayy{display: flex;}
 .start{text-align: start;font-size: 20px;margin-left:70px;margin-top: 25px;}
+.startf{text-align: start;font-size: 20px;margin-left:70px;margin-top: 25px;}
 .end{text-align: end;margin-left: 50%;margin-top: 25px;}
-
+.endf{text-align: end;margin-left: 50%;margin-top: 25px;;color: rgb(92, 91, 91);}
+.displayf{display: flex;}
 .bodyimg{display: flex;}
 .imgtex{margin-left: 200px;}
 .img1{width: 100px; height: 100px;}
@@ -64,7 +66,13 @@ a {
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;}
 .end{text-align: end;margin-left: 25%;}
+.endf{text-align: end;margin-left: 10%;}
+.displayf{display: inline;}
+.endf .margfooter{display: block;margin-left:  25px;}
 .row{align-items: center;}
-.margfooter{margin-right: 1rem;text-align: start;}
+.margfooter{text-align: start;color: rgb(92, 91, 91);}
+.bodyimg{display: inline;}
+.imgtex{margin-left: 200px;}
+.startf{text-align: start;font-size: 20px;margin-left:11%;margin-top: 25px;}
 
 }
