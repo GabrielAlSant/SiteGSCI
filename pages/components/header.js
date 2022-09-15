@@ -33,7 +33,7 @@ export default function Header(){
         </div>
        
       
-        <div className="col-sm-8"><span className="cardheader">Ler é bom, tente de vez em quando</span></div>
+        <div className="col-sm-8"><span className="cardheader">Às vezes a leitura é um modo engenhoso de evitar o pensamento</span></div>
         <div className="col-sm-4"></div>
         </div>
 

@@ -15,7 +15,7 @@ export default function Home() {
   <Body/>
   <div className='container'>
   <div  className="top">
-                <div className="titlebtn">Alguma Coisa</div>
+                <div className="titlebtn">Livros na Pré-Venda</div>
                 <div className="pos"><button className="btn btn-dark">Ver Mais</button></div>
   </div>
   <Cards />

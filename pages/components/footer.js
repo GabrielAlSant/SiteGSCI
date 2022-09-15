@@ -3,7 +3,7 @@ return (
     <div>
     <div className="displayf">
       
-      <div className="start"><span className="title">Livraria</span></div>
+      <div className="start"><span className="title">livraria</span></div>
       <div className="endf"> </div>
     
     </div>
