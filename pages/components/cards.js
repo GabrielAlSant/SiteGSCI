@@ -10,23 +10,23 @@ export default function Cards(){
   <div className="col-sm-3">
     <div className="card">
       <div className="card-body">
-        <h5 className="card-title">Special title treatment</h5>
-      <Image src={img1} height={356} width={400}/>
+        <h5 className="card-title">HOLOCAUSTO BRASILEIRO</h5>
+      <Image src={img1} height={256} width={300}/>
       </div>
     </div>
   </div>
   <div className="col-sm-3">
     <div className="card">
       <div className="card-body">
-        <h5 className="card-title">Special title treatment</h5>
-        <Image src={img2} height={356} width={400}/>
+        <h5 className="card-title">FORWARD</h5>
+        <Image src={img2} height={650} width={700}/>
       </div>
     </div>
   </div>
   <div className="col-sm-3">
     <div className="card">
       <div className="card-body">
-        <h5 className="card-title">Special title treatment</h5>
+        <h5 className="card-title">O LABIRINTO DO FAUNO</h5>
         <Image src={img3} height={356} width={400}/>
       </div>
     </div>
@@ -34,7 +34,7 @@ export default function Cards(){
   <div className="col-sm-3">
     <div className="card">
       <div className="card-body">
-        <h5 className="card-title">Special title treatment</h5>
+        <h5 className="card-title">A PORTA</h5>
         <Image src={img4} height={356} width={400}/>
       </div>
     </div>
