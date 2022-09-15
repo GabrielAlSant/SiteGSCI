@@ -41,7 +41,7 @@ a {
 .endff{text-align: end;margin-left: 54%;margin-top: 25px;;color: rgb(92, 91, 91);}
 .displayf{display: flex;}
 .bodyimg{display: flex;}
-.imgtext{margin-left: 200px;text-align: center; font-size:22px}
+.imgtext{margin-left: 200px;text-align: center; font-size:22px;font-weight: bold}
 .img1{width: 100px; height: 100px;}
 .card{margin-bottom: 50px;}
 .card-body{height:400px;}
@@ -73,7 +73,7 @@ a {
 .row{align-items: center;}
 .margfooter{text-align: start;color: rgb(92, 91, 91);}
 .bodyimg{display: inline;}
-.imgtex{margin-left: 200px;}
+.imgtext{display: inline;margin: 1rem;font-weight: bold}
 .startf{text-align: start;font-size: 20px;margin-left:11%;margin-top: 25px;}
 .endff {display: block;margin-left:  14%;text-align: start;}
 
