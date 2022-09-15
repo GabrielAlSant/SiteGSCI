@@ -61,7 +61,7 @@ a {
    {
     max-width: 100%;;height: 280px;width: 100%;
    }
-   .back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 360px;margin-left: 5%;margin-top:20px;}
+   .back .cardheader{border: 4px solid white; color: white; font-size: 30px;display: flex;align-items: flex-start; height: 150px;width: 360px;margin-left: 5%;margin-top:20px;}
 .display{display: flex;}
 .pos{margin-left:50%;}
 .start{text-align: start;font-size: 20px;margin-left:25px;}
