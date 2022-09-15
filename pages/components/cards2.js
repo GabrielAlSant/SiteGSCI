@@ -1,9 +1,5 @@
 import Image from 'next/image'
-import img1 from '../../public/img/Livro.webp'
-import img2 from '../../public/img/livro1.webp'
-import img3 from '../../public/img/Livro2.webp'
-import img4 from '../../public/img/Livro3.webp'
-export default function Cards(){
+export default function Cards2(){
     return (
         <div>         
           <div className="row">
@@ -11,7 +7,6 @@ export default function Cards(){
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Special title treatment</h5>
-      <Image src={img1} height={356} width={400}/>
       </div>
     </div>
   </div>
@@ -19,7 +14,7 @@ export default function Cards(){
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Special title treatment</h5>
-        <Image src={img2} height={356} width={400}/>
+
       </div>
     </div>
   </div>
@@ -27,7 +22,7 @@ export default function Cards(){
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Special title treatment</h5>
-        <Image src={img3} height={356} width={400}/>
+        
       </div>
     </div>
   </div>
@@ -35,7 +30,7 @@ export default function Cards(){
     <div className="card">
       <div className="card-body">
         <h5 className="card-title">Special title treatment</h5>
-        <Image src={img4} height={356} width={400}/>
+
       </div>
     </div>
   </div>

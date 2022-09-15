@@ -30,7 +30,7 @@ a {
 .title {font-size: 32px;margin-left: 10%;margin-top: 5%;}
 .headitem{font-size: 20px;color: white;}
 .back .col-sm-4 .headitem{font-size: 20px;}
-.back .cardheader{border: 4px solid white; color: white; font-size: 40px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 80px;margin-top:20px;}
+.back .cardheader{border: 4px solid white; color: white; font-size: 30px;display: flex;align-items: flex-start; height: 150px;width: 400px;margin-left: 80px;margin-top:20px;}
 .back .container{margin-top: 0%;width: 100%;;padding: 0%;}
 
 .displayy{display: flex;}
@@ -40,7 +40,7 @@ a {
 .endf{text-align: end;margin-left: 50%;margin-top: 25px;;color: rgb(92, 91, 91);}
 .displayf{display: flex;}
 .bodyimg{display: flex;}
-.imgtex{margin-left: 200px;}
+.imgtext{margin-left: 200px;text-align: center; font-size:22px}
 .img1{width: 100px; height: 100px;}
 .card{margin-bottom: 50px;}
 .card-body{height:400px;}
@@ -48,7 +48,7 @@ a {
 .top{display: flex;margin: 1rem;}
 
 .titlebtn{text-align: start;font-size: 20px;}
-.pos{margin-left:83.5%;}
+.pos{margin-left:79%}
 .background{background-image: url("../public/img/back.webp");}
 
 .backblack{background-color: rgb(31, 31, 31);color:white}

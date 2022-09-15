@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import Header from './components/header'
 import Body from './components/body'
 import Cards from './components/cards'
+import Cards2 from './components/cards2'
 import Footer from './components/footer'
 
 export default function Home() {
@@ -19,7 +20,7 @@ export default function Home() {
                 <div className="pos"><button className="btn btn-dark">Ver Mais</button></div>
   </div>
   <Cards />
-  <Cards />
+  <Cards2 />
   </div>
   <div className='backblack'>
   <Footer />
