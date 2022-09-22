@@ -13,7 +13,9 @@ export default function Home() {
       <div className='background'>
   <Header/>
   </div>
+  <div className="imgbody">
   <Body/>
+  </div>
   <div className='container'>
   <div  className="top">
                 <div className="titlebtn">Livros na Pré-Venda</div>

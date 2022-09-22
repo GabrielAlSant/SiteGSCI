@@ -1,15 +1,17 @@
-import Image from "next/image"
-import img from '../../public/img/utilizavel.jpg'
-
 export default function Body(){
     return (
-        <div className="container">
-           
-            
-            <div className="bodyimg">
-             <Image src={img} className="img1"></Image>
-             <div className="imgtext">Livros em Pré-Vendas com 30% na primeira compra</div>
-            </div>
+        <div className="container bodyimg">
+        <div className="imgtext">
+        <div className="row">
+          <div className="col">
+          <div className="card-body">
+          <div className="black">Às vezes a leitura é um modo engenhoso de evitar o pensamento.</div>
+          </div>
+          </div>
+          <div className="col">
+          </div>
         </div>
+      </div>
+      </div>
     )
 }

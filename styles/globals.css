@@ -55,6 +55,36 @@ a {
 .backblack{background-color: rgb(31, 31, 31);color:white}
 
 .padd{padding-left: 1rem;}
+
+
+
+.imgbody{
+  background-image: url("../public/img/utilizavel.jpg");
+  width: 600px;
+  height: 250px;
+  margin-left: 25%;
+  border: 1px rgb(68, 68, 68) solid;
+  margin-top: 5%;
+}
+
+.imgtext .card-body{
+  border: none;
+  color: rgb(24, 23, 23);
+  height:200px;
+  width: 400px;
+  margin-left: 50%;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+  margin-top: 25%;
+  background-color: white;
+}
+
+.black{
+  margin-top: 10%;
+}
+
+
 @media (max-width: 600px)
 {
 
@@ -76,5 +106,27 @@ a {
 .imgtext{display: inline;margin: 1rem;font-weight: bold}
 .startf{text-align: start;font-size: 20px;margin-left:11%;margin-top: 25px;}
 .endff {display: block;margin-left:  14%;text-align: start;}
+
+.imgbody{
+  background-image: url("../public/img/utilizavel.jpg");
+  width: 350px;
+  height: 250px;
+  margin-left: 10%;
+  border: 1px rgb(68, 68, 68) solid;
+  margin-top: 5%;
+}
+
+.imgtext .card-body{
+  border: none;
+  color: rgb(24, 23, 23);
+  height:200px;
+  width: 300px;
+  margin-left: 8%;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+  margin-top:110%;
+  background-color: white;
+}
 
 }
